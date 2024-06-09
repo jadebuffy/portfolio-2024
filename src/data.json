@@ -1,0 +1,736 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "titre": "Étiquettes Cave du Prieuré",
+        "type": "Projet d'entreprise - Stage",
+        "categories": [
+          "Design graphique"
+        ],
+        "image": "images/bouteille.webp",
+        "image1": "bouteille2.webp",
+        "image2": "caveduprieure2.webp",
+        "image3": "bouteille.webp",
+        "image4": "cave6.webp",
+        "image5": "cave5.webp",
+        "brief": "Ce projet m'a été confié lors de mon stage de 2 mois au sein de l'atelier graphique Indélébile!, nous avons également travaillé avec 2L'agence. Nous étions en charge de la refonte des anciennes étiquettes des bouteilles de vin tradition de la Cave du Prieuré, vignoble de Savoie, afin de proposer une version plus moderne.",
+        "bref": "Pour ce projet, nous étions 3 personnes à collaborer. Après avoir fait un benchmark et débriefé ensemble, nous avons déterminé les différentes versions et styles d'étiquettes afin de nous les répartir. J'ai pu proposer 2 versions d'étiquettes. Après quelques ébauches et réflexions, ma première inspiration a été de créer quelque chose de plus simple, plus minimaliste avec notamment l’utilisation de leur logo de producteurs (élément graphique de la feuille de vigne) comme motif d’arrière-plan, avec une typographie plus moderne. L'idée, pour chacune des étiquettes, était de reprendre le <span>bâtiment du Prieuré, lieu emblématique, et de le remanier afin de le rendre plus moderne. Pour la proposition plus complexe, j'ai choisi de faire figurer les éléments qui représentent au mieux le Prieuré et d'en faire une composition moderne, en aplat. Cela n'a pas été facile, mais l'avantage de travailler en équipe est que j'ai pu demander de l'aide à un collègue.",
+        "ressenti": "J'ai beaucoup aimé réaliser ce projet, malgré les difficultés à trouver la bonne mise en forme pour que le visuel soit pertinent.",
+        "competences": [
+          "Refonte d'un ancien design", 
+          "Design Graphique", 
+          "Créativité", 
+          "Défendre son projet"
+        ],
+        "tools": [
+          "ai.svg", 
+          "word.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 2,
+        "titre": "La dépression chez les jeunes",
+        "type": "Projet universitaire",
+        "categories": [
+          "Infographie", 
+          "Design graphique"
+        ],
+        "image": "images/infographie.webp",
+        "image1": "infographie2.webp",
+        "image2": "infographie-croquis - partie1.webp",
+        "image3": "infographie.webp",
+        "image4": "infographie-croquis.webp",
+        "image5": "infographie3.webp",
+        "brief": "Réaliser une infographie sur le thème de son choix. J’ai choisi de représenter le thème de la dépression chez les jeunes, un thème qui me tient particulièrement à cœur et qui est encore trop invisibilisé.",
+        "bref": "Pour réaliser cette infographie, j'ai commencé par récolter des données et informations afin d'enrichir mon contenu. Je me suis informée sur plusieurs sites, et ai notamment pris connaissance de rapports faits par l'UNICEF à ce sujet. Une fois les contenus trouvés, j'ai pu effectuer les premiers croquis et hiérarchiser le contenu. Enfin, je me suis attaquée au design, après avoir fait un benchmark des styles de design qui me plairait. J'ai trouvé la métaphore de couler très pertinente pour illustrer le ressenti que l'on a dans cette situation qu'est la dépression, je l'ai donc utilisé à ma manière dans mon infographie.",
+        "ressenti": "Je trouve que c’était un très bon exercice pour apprendre à illustrer ses propos, afin qu’ils donnent envie de lire et que les informations soient accessibles au plus grand nombre. Ce projet m’a permis de travailler sur mes compétences de mise en page et de design graphique.",
+        "lien": "https://exemple.com/projet2",
+        "competences": [
+          "Créativité", 
+          "Design Graphique", 
+          "Esprit de synthèse"
+        ],
+        "tools": [
+          "ai.svg", 
+          "word.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 3,
+        "titre": "Charte graphique personnelle",
+        "type": "Projet universitaire",
+        "categories": [
+          "Design graphique"
+        ],
+        "image": "images/chgr.webp",
+        "image1": "chgr.webp",
+        "image2": "carte-charte.webp",
+        "image3": "charte3.webp",
+        "image4": "logo-charte.webp",
+        "image5": "charte2.webp",
+        "brief": "J'ai réalisé ce projet dans le cadre d'un TP de culture artistique. Je devais réaliser un document de charte pour définir ma propre identité visuelle, en passant par la création de mon logo.",
+        "bref": "Tout d'abord, j'ai réalisé un moodboard qui me correspondait avec des ambiances graphiques, des typographies, des couleurs. Ensuite, j'ai commencé ma recherche de logo sur papier, où j'ai élaboré plusieurs croquis différents. Avec l'utilisation d'Illustrator, j'ai numérisé ces croquis que j'ai finalement retravaillés pour trouver mon logo. Dès que celui-ci a été créé, j'ai décliné la charte graphique.",
+        "ressenti": "Pour moi, cela a été une bonne expérience de rétrospection, car je trouve qu'il est assez difficile de bien se connaître soi-même et de se définir en une charte qui nous représente et aspire à ce que l'on veut renvoyer comme image. Depuis, j'ai conservé le même logo, mais ma charte graphique a changé en même temps que mes goûts ;)",
+        "lien": "https://exemple.com/projet2",
+        "competences": [
+          "Identité visuelle", 
+          "Design éditorial", 
+          "Créativité"
+        ],
+        "tools": [
+          "ai.svg", 
+          "id.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 4,
+        "titre": "Interface CHS",
+        "type": "Projet d'entreprise - Stage",
+        "categories": [
+          "Zoning", 
+          "Conception",
+          "Webdesign"
+        ],
+        "image": "images/interface-chs.webp",
+        "image1": "interface-chs.webp",
+        "image2": "chs4.webp",
+        "image3": "chs3.webp",
+        "image4": "icons-chs.webp",
+        "image5": "mbab5.webp",
+        "brief": "J'ai réalisé ce projet dans le cadre de mon stage de 2 mois au sein de l'atelier graphique Indélébile!. En collaboration avec le Studio Big Horn, nous devions réaliser le design de l'interface VR du CHS de Savoie, permettant la visite virtuelle des lieux au moyen de photos 360°. Le CHS de Savoie est un endroit emblématique de Bassens, dont la partie historique va être vendue. Pour permettre aux personnes de continuer à visiter ce site, ils ont pris l’initiative de créer une visite virtuelle qui sera affichée sur des bornes.",
+        "bref": "Pour ce projet, j’ai fait un important benchmark qui m’a permis de choisir les fonctionnalités efficaces et les designs pertinents pour cette interface. Suite à ces recherches, j’ai pu créer un zoning pour la page d’accueil, la page zoom sur une œuvre et la page intérieure d’un point d’intérêt. Le design a été réalisé par la deuxième personne en charge, à partir de mon zoning. J’ai créé également quelques icônes pour représenter les points d’intérêts principaux qui s’inspirent des éléments emblématiques de chaque lieu : l’apothicairerie est symbolisée par un des pots en céramique, le parc par un des arbres, les coursives par leur forme.",
+        "ressenti": "Je ne pensais pas que le zoning jouerait un rôle si important dans la création d’un webdesign, mais j’ai pu constater que cela faisait gagner beaucoup de temps surtout si l’on travaille en équipe.",
+        "lien": "https://exemple.com/projet2",
+        "competences": [
+          "UX design", 
+          "Design éditorial", 
+          "Créativité"
+        ],
+        "tools": [
+          "ai.svg", 
+          "id.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 5,
+        "titre": "Dépliant RH",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Design éditorial", 
+          "Design graphique"
+        ],
+        "image": "images/depliant.webp",
+        "image1": "depliant-recto.webp",
+        "image2": "depliant.webp",
+        "image3": "depliant-recto.webp",
+        "image4": "depliant.webp",
+        "image5": "depliant-recto.webp",
+        "brief": "Dans le cadre de mon alternance au sein de la Mairie de La Balme de Sillingy, j'ai été chargée de la refonte du dépliant d'accueil destiné aux nouveaux agents. Mon objectif était de créer un document à la fois informatif, accueillant et esthétique, conforme à la charte graphique de la mairie et présentant les informations essentielles de manière claire et attrayante.",
+        "bref": "Ma responsabilité principale a été de concevoir le design du dépliant en accord avec la charte graphique existante de la mairie, tout en lui apportant une touche de modernité. J'ai également collaboré étroitement avec le service des ressources humaines pour mettre à jour les informations et les textes, garantissant ainsi leur exactitude et leur pertinence. Pour ce faire, j'ai utilisé Adobe InDesign afin de créer une mise en page attractive et structurée.",
+        "ressenti": "Ce projet était une bonne expérience. La communication interne implique des contraintes, surtout dans le cadre d'une collectivité, et cela m'a beaucoup plu de pouvoir expérimenter ces conditions. Le design print est un domaine qui m'intéresse et dans lequel j'aimerais améliorer mes compétences. Ce projet m'a permis de travailler sur mes compétences en design graphique, ma capacité à travailler en étroite collaboration avec d'autres services et ma volonté de produire un travail de qualité conforme aux normes professionnelles.",
+        "lien": "https://exemple.com/projet2",
+        "competences": [
+          "Design éditorial", 
+          "Créativité", 
+          "Refonte"
+        ],
+        "tools": [
+          "ai.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 6,
+        "titre": "Mini jeu vidéo",
+        "type": "Projet universitaire",
+        "categories": [
+          "Design graphique",
+          "Développement web"
+        ],
+        "image": "images/jeu-video.webp",
+        "image1": "jeuvideo.gif",
+        "image2": "jeuvideo2.webp",
+        "image3": "jeuvideo3.webp",
+        "image4": "jeuvideo-croquis.webp",
+        "image5": "jeuvideo4.webp",
+        "brief": "Dans le cadre d'un cours de développement orienté objet Java, j'ai été amenée à réaliser un jeu vidéo dont j'ai choisi de créer moi-même le graphisme. Nous étions libres sur le type de jeu que nous souhaitions réaliser, il fallait seulement qu'il repose sur le principe de cible à viser.",
+        "bref": "J'ai commencé par faire un croquis papier de l'ambiance du jeu vidéo que je souhaitais. L'idée m'est venue assez naturellement, et c'est comme ça qu'est né le jeu Ketchup!. Par la suite, j'ai réalisé sur Illustrator la version numérique des designs. Le jeu comporte plusieurs niveau (2) mais il peut y en avoir plus. Les fonctionnalités du jeu permettent de modifier la puissance du tir, son orientation ainsi que l'emplacement du lanceur. Comme dans un jeu vidéo, il y a des 'vies', au nombre de 3, si le joueur ne réussit pas le niveau au bout du troisième essai, il a perdu. Pour le développement du jeu, nous devions utiliser un nouveau langage de programmation, Java. J'ai beaucoup aimé découvrir la programmation orientée objet et pouvoir m'exercer sur des jeux ludiques. J'ai notamment pu créer des classes pour les différents éléments du jeu comme la cible, les obstacles ou encore le lanceur.",
+        "ressenti": "Ce projet m’a tout de suite plu, il regroupait plusieurs domaines que j'affectionne, le graphisme et le développement. La flexibilité du concept de jeu m'a permis de développer ma créativité et de concevoir un jeu qui me plaisait. Par la suite, j'ai été à réaliser d'autres jeux vidéo avec Unity.",
+        "lien": "https://github.com/jadebuffy/KetchupBallistick/",
+        "competences": [
+          "Créativité", 
+          "Développement Orienté Objet", 
+          "Graphisme"
+        ],
+        "tools": [
+          "java.svg", 
+          "ai.svg", 
+          "carnet.svg"
+        ],
+        "lottie": "",
+        "video": ""
+      },
+      {
+        "id": 7,
+        "titre": "Communication Marché de Noël",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Design graphique",
+          "Communication"
+        ],
+        "image": "images/marche1.webp",
+        "image1": "marche1.webp",
+        "image2": "marche2.webp",
+        "image3": "flyer_marche_noel.webp",
+        "image4": "flyer_marche_noel_2.webp",
+        "image5": "marche1.webp",
+        "brief": "Dans le cadre de mon alternance au sein de la Mairie de La Balme de Sillingy, j'ai eu à réaliser la communication du marché de Noël qui s'est déroulé le samedi 2 et dimanche 3 décembre 2023",
+        "bref": "Mes missions étaient diverses puisqu'elles regroupaient la rédaction d'un communiqué de presse, la communication sur les réseaux sociaux, la création de l'affiche de l'événement et toutes les déclinaisons print et web. Pour ce projet, j'ai commencé par réaliser l'affiche du marché de Noël. Pour cela, j'ai fait un benchmark pour connaître les tendances dans le milieu. Pour les projets que je réalise à la Mairie, comme nous avons des tâches nombreuses et variées (nous sommes deux au service communication), les contraintes de temps sont à prendre en compte, je ne crée donc pas mes éléments graphiques, mais les choisis sur Freepik. Cela me fait gagner du temps que je peux réinvestir sur la mise en page. Une fois l'affiche terminée, j'ai pu décliner le visuel sur les différents supports et programmer la communication.",
+        "ressenti": "Ce projet de type communication 360° m'a beaucoup plu. J'ai pu expérimenter tous les fronts de la communication. L'avoir réalisé en alternance m'a permis de bénéficier des conseils de ma maître d'apprentissage, experte dans ce domaine. J'ai donc beaucoup appris et gagné en expérience.",
+        "lien": "",
+        "competences": [
+          "Communication 360°", 
+          "Conception graphique", 
+          "Créativité", 
+          "Anticipation"
+        ],
+        "tools": [
+          "id.svg", 
+          "fb.svg", 
+          "freepik.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 8,
+        "titre": "Ma Boîte à Biscuits",
+        "type": "Projet d'entreprise - Stage",
+        "categories": [
+          "Identité graphique", 
+          "Design Graphique"
+        ],
+        "image": "images/mbab1.webp",
+        "image1": "mbab1.webp",
+        "image2": "mbab2.webp",
+        "image3": "mbab2_2.webp",
+        "image4": "mbab3_3.webp",
+        "image5": "mbab4.webp",
+        "brief": "Dans le cadre de mon stage de 2 mois au sein de l'atelier graphique Indélébile!, j'ai pu réaliser l'identité visuelle d'une vendeuse de biscuits, Ma boite à biscuits. Nous étions 3 à collaborer sur ce projet, et comme souvent, chaque membre propose une ou plusieurs pistes avant qu’elles ne soient sélectionnées pour l’envoi à la cliente. La consigne était de créer un logo dans un style rétro des années 50 avec une pin-up. L'enjeu était de concilier le rétro et l'artisanal sans tomber dans le synthétique.",
+        "bref": "Pour ce projet, j’ai aimé pouvoir mettre ma créativité sous contrainte. La cliente avait beaucoup d'exigences et il nous a fallu plusieurs semaines, et une vingtaine de propositions pour trouver chaussure à son pied. (Mais cela en valait la peine !) La typographie du nom ayant son importance, je suis donc partie de différents styles de typo puis j’ai décliné mes logos. Pour le premier jet, après quelques croquis papier, j’ai créé un logo assez moderne qui faisait écho à l’une des inspirations de la cliente. J’ai proposé une autre piste dans un esprit plus dinner américain, encadré par des traits pour rappeler la forme rectangulaire d'un magnet rétro. Avoir des limites tout en restant créatif afin de pouvoir proposer une identité qui correspond au client est un exercice peu simple (suivant les exigences des clients 😉) mais que j’aime pratiquer, il me permet de repousser mes limites et de façonner des propositions pertinentes.",
+        "ressenti": "J’ai beaucoup apprécié pouvoir développer ma créativité sur des projets aussi intéressants. C’est une étape délicate de savoir cerner la demande client pour créer une proposition qui leur plaira. Par la suite, j'ai également pu utiliser cette expérience dans la création d'identité graphique pour des projets différents : un potager collectif et une boutique en ligne.",
+        "competences": [
+          "Créativité", 
+          "Capacité à se réinventer", 
+          "Adaptabilité", 
+          "Relation client", 
+          "Design graphique"
+        ],
+        "tools": [
+          "carnet.svg",
+          "ai.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 9,
+        "titre": "Court motion design",
+        "type": "Projet personnel",
+        "categories": [
+          "Design graphique",
+          "Animation"
+        ],
+        "image": "images/miniature.webp",
+        "image1": "",
+        "image2": "croquis-autoportrait.webp",
+        "image3": "autoportraitcroquis3.webp",
+        "image4": "cave6.webp",
+        "image5": "croquis-autoportrait2.webp",
+        "brief": "Dans la version précédente de mon portfolio, je cherchais une manière originale pour me présenter tout en mettant en valeur mes compétences. Quoi de mieux qu’un motion design ? J’ai donc réalisé une vidéo très courte d’un petit personnage qui me représente.",
+        "bref": "Pour ce projet, j'ai réalisé des croquis d'autoportrait, me permettant de trouver la façon la plus adéquate de me représenter. Après avoir défini le style graphique du personnage, je l'ai traduit numériquement sur Illustrator et j'ai préparé le fichier pour l'animer. Je voulais que l'animation soit assez courte, j'ai donc créé un scénario puis j'ai commencé à animer le personnage. Enfin, comme je souhaitais le mettre sur mon portfolio au format Lottie Player, j'ai fait l'export en fichier .json et l'ai ensuite intégré sur le site.",
+        "ressenti": "Le motion design m’attire beaucoup car il associe l’animation et le graphisme, deux domaines que je chéris. J’aime créer des mini projets qui me permettent de m’entraîner sur le logiciel After Effects, donnant ainsi vie à mes designs. Par la suite, j'ai pu réalisé deux autres motion design pour des projets différents.",
+        "competences": [
+          "Animation 2D",
+          "Graphisme",
+          "Créativité"
+        ],
+        "tools": [
+          "ai.svg", 
+          "ae.svg"
+        ],
+        "lottie": "motion2.json"
+      },
+      {
+        "id": 10,
+        "titre": "RentSki",
+        "type": "Projet d'entreprise - Stage",
+        "categories": [
+          "Webdesign"
+        ],
+        "image": "images/sanglard.webp",
+        "image1": "sanglard.webp",
+        "image2": "sanglard2.webp",
+        "image3": "sanglard3.webp",
+        "image4": "sanglard4.webp",
+        "image5": "sanglard.webp",
+        "brief": "Ce projet a été réalisé lors de mon stage de 2 mois au sein de l’atelier graphiqueIndélébile !. Nous étions 3 personnes à collaborer et avions pour objectif la refonte du design du site web de Sanglard (Rentski), loueur de ski à Chamonix. Dans ce cadre, j’ai été en charge de faire une proposition de mise en page.",
+        "bref": "Après le rendez-vous clients qui m'a permis de mieux cerner leurs attentes et un débrief avec l'équipe d'Indélébile!, j'ai commencé à faire un benchmark, analysant les tendances du moment, les tendances du milieu et ce que fait la concurrence. Cela m'a permis de dégrossir et de peaufiner mes idées pour la refonte. Une fois plusieurs inspirations trouvées, j'ai réalisé des croquis et un zoning sur mon carnet et me suis ensuite lancée dans sa version numérique, sur Adobe XD. J'ai pu proposer deux versions de webdesign en interne, dans deux styles légèrement différents.",
+        "ressenti": "J'ai beaucoup aimé réaliser ce projet. Le fait que ce soit une refonte et de surcroît pour une entreprise historique de Chamonix, est pour moi très intéressant. Cela donnait un certain cachet à la tâche pour laquelle il fallait se montrer à la hauteur.",
+        "lien": "",
+        "competences": [
+          "Créativité",
+          "Webdesign",
+          "Interface Utilisateur (UI)",
+          "Savoir se réinventer"
+        ],
+        "tools": [
+          "xd.svg",
+          "carnet.svg",
+          "pinterest.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 11,
+        "titre": "Signalétique partenariale",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Design graphique"
+        ],
+        "image": "images/banderole.webp",
+        "image1": "oriflamme2.webp",
+        "image2": "rollup1.webp",
+        "image3": "banderole2.webp",
+        "image4": "rollup2.webp",
+        "image5": "banderole3.webp",
+        "brief": "Ce projet m'a été confié pendant mon alternance au sein de la mairie de La Balme de Sillingy. J'ai été en charge de créer des supports variés de signalétique permettant de souligner le soutien de la commune lors des événements partenaires.",
+        "bref": "Ce projet était une première expérience pour moi dans la création de supports de cette envergure. J’ai donc pu être en charge du projet de A à Z, de la réception de la demande à l’impression de la signalétique. Plusieurs supports étaient à réaliser : des roll-up, des banderoles de différents formats, ainsi que des oriflammes. J'ai récupéré la charte graphique de la Mairie afin de pouvoir charter les supports. Pour ce projet, j'ai réalisé chacun des designs, en proposant toujours plusieurs versions pour chaque support. J'ai également été en charge de la recherche de prestataireset de la gestion des impressions en relation avec le prestataire choisi.",
+        "ressenti": "Pouvoir gérer le projet en entier était une très bonne expérience du monde du travail et j’ai pu beaucoup apprendre.",
+        "competences": [
+          "Créativité", 
+          "Adaptabilité", 
+          "Gestion de projet"
+        ],
+        "tools": [
+          "ai.svg", 
+          "id.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 12,
+        "titre": "Site Wordpress",
+        "type": "Projet universitaire",
+        "categories": [
+          "Design graphique",
+          "Développement web"
+        ],
+        "image": "images/wordpress.webp",
+        "image1": "wordpress.webp",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "brief": "Dans le cadre de 2 semaines de workshop, nous devions réaliser le site web d'un client par groupe de 4 étudiants. Une semaine était réservée au maquettage, l'autre semaine au développement web.",
+        "bref": "Durant une semaine, je me suis occupée du développement du site, et j'ai pu notamment apprendre à me servir de WordPress, une interface avec laquelle je n'étais pas familière avant ce workshop. J'ai également expérimenté la création de mon propre thème Wordpress.",
+        "ressenti": "Grâce à ce projet, j'ai pu développer mes compétences en développement front endet comprendre le fonctionnement de WordPress. Cela m'a aussi permis d'avoir une première expérience du milieu professionnel et de la relation client sur des projets en équipe conséquents.",
+        "lien": "https://github.com/jadebuffy/yogaterreciel",
+        "competences": [
+          "Développement WordPress", 
+          "Gestion de projet", 
+          "Travail en équipe"
+        ],
+        "tools": [
+          "wordpress.svg", 
+          "php.svg", 
+          "html.svg", 
+          "css.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 13,
+        "titre": "Appli météo",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/apirest_3.webp",
+        "image1": "apirest.gif",
+        "image2": "apirest_1.webp",
+        "image3": "apirest_2.webp",
+        "image4": "apirest_1.webp",
+        "image5": "apirest_3.webp",
+        "brief": "Dans le cadre d’un projet universitaire, nous devions réaliser une application de météo. Le but ? Récupérer les données depuis l’api de notre choix et les afficher lorsque l’utilisateur rentre la ville de son choix.",
+        "bref": "Pour ce projet, j’ai choisi l’API weather, gratuite et avec une documentation complète qui m’a permis d’appréhender le projet avec les bonnes clés en main. Dans un premier temps  j’ai construit la structure du code, permettant de récupérer les données en back, puis de les transmettre au front qui les affichera. Pour cela, j’ai utilisé des variables permettant de stocker les données relatives à différents champs (comme le nom de la ville, la température, la date, etc…). Ces données, j’ai pu les récupéré depuis un fichier .json envoyé depuis l’API, et dont j’ai récupéré seulement celles qui m’intéressaient. Le CSS de l'application a été fait avec Bootstrap, une première pour moi.",
+        "ressenti": "J’ai trouvé ce projet accessible et intéressant. Il m’a permis de développer pour la première fois une API rest et j’ai pu apprendre les bases de la conception d’application web.",
+        "lien": "",
+        "competences": [
+          "Utilisation d'une API", 
+          "Récupération de données via un fichier .json", 
+          "Utilisation de la librairie Bootstrap",
+          "Développement d'une API rest"
+        ],
+        "tools": [
+          "bootstrap.svg", 
+          "js.svg",
+          "vscode.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 14,
+        "titre": "Tic Tac Toe",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/tictactoe1.webp",
+        "image1": "tictactoe.gif",
+        "image2": "tictactoe2.webp",
+        "image3": "tictactoeWebsocket4.webp",
+        "image4": "tictactoeWebsocket5.webp",
+        "image5": "tictactoeWebsocket2.webp",
+        "brief": "Dans le cadre d’une ressource, nous devions utiliser les websockets sur un jeu vidéo. Pour cela, j’ai choisi de réaliser un Tic Tac Toe multijoueurs.",
+        "bref": "Comme ce projet utilisait des technologies encore inconnues pour moi (websockets), j'ai décidé de passer une partie de mon travail à la recherche de tutoriel explicatif et de documentation. Une fois le sujet éclairé, j'ai pu me lancer dans ce jeu, que j'ai développé à l'aide de bootstrap pour le css. Une fois les configurations faites et la logique de jeu implémentée, le projet était fonctionnel !",
+        "ressenti": "Le projet étant fonctionnel, j’ai décidé d’apporter des modifications, comme le fait que le premier joueur lorsqu’on lance une partie soit défini aléatoirement, de même que les symboles attribués à chaque adversaire. Malheureusement, j’ai eu quelques problèmes et la distribution des tours aux joueurs rentre parfois en conflit. J’ai apprécié pouvoir me lancer sur ce projet dans l’inconnu, j’ai pu apprendre de nombreuses choses sur les connexions et échanges entre serveurs et clients.  ",
+        "lien": "",
+        "competences": [
+          "Utilisation de framework back end", 
+          "Développement de connexions serveurs multijoueurs", 
+          "Créativité"
+        ],
+        "tools": [
+          "bootstrap.svg", 
+          "js.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 15,
+        "titre": "Portfolio",
+        "type": "Projet personnel",
+        "categories": [
+          "Développement web",
+          "Webdesign",
+          "Design graphique"
+        ],
+        "image": "images/portfolio.webp",
+        "image1": "portfolio.webp",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "brief": "J'ai réalisé ce projet dans le cadre d'un TP de culture artistique. Je devais réaliser un document de charte pour définir ma propre identité visuelle, en passant par la création de mon logo.",
+        "bref": "Tout d'abord, j'ai réalisé un moodboard qui me correspondait avec des ambiances graphiques, des typographies, des couleurs. Ensuite, j'ai commencé ma recherche de logo sur papier, où j'ai élaboré plusieurs croquis différents. Avec l'utilisation d'Illustrator, j'ai numérisé ces croquis que j'ai finalement retravaillés pour trouver mon logo. Dès que celui-ci a été créé, j'ai décliné la charte graphique.",
+        "ressenti": "Pour moi, cela a été une bonne expérience de rétrospection, car je trouve qu'il est assez difficile de bien se connaître soi-même et de se définir en une charte qui nous représente et aspire à ce que l'on veut renvoyer comme image. Depuis, j'ai conservé le même logo, mais ma charte graphique a changé en même temps que mes goûts ;)",
+        "lien": "",
+        "competences": [
+          "Design graphique", 
+          "Webdesign", 
+          "Créativité",
+          "Développement avec un framework front end",
+          "Utilisation de Framer motion pour des animations"
+        ],
+        "tools": [
+          "ai.svg", 
+          "id.svg",
+          "html.svg",
+          "css.svg",
+          "react.svg",
+          "framer.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 16,
+        "titre": "Base de données et MCD",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/mcd3.webp",
+        "image1": "mcdhekto.webp",
+        "image2": "mcdbasededonnees.webp",
+        "image3": "mcdhekto.webp",
+        "image4": "mcdbasededonnees.webp",
+        "image5": "mcd2.webp",
+        "brief": "Dans le cadre de mes études, nous avons dû réaliser couramment des bases de données avec MySQL. Lors de ces projets, je me suis occupée de créer les modèles MCD et de les importer dans phpmyadmin afin de créer une architecture de base de données correspondant aux divers projets.",
+        "bref": "Pour ces projets, j'ai commencé par réfléchir aux différentes tables dont j'aurais besoin ainsi que les liens qu'elles auront entre elles. ",
+        "ressenti": "Je trouve que c'est un exercice assez difficile pour moi, lorsqu'il faut établir au début le nombre de tables nécessaires et les propriétés à rentrer dedans, même si au final, j'ai pu comprendre assez vite le fonctionnement et comment établir une base de donnée rapidement.",
+        "lien": "",
+        "competences": [
+          "Création de Modèle MCD", 
+          "Création et utilisation d'une base de donnée", 
+          "Maîtrise des logiciels et du fonctionnement back end"
+        ],
+        "tools": [
+          "mysql.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 17,
+        "titre": "Fête du lac",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Design graphique",
+          "Gestion de projet"
+        ],
+        "image": "images/kakemono5.webp",
+        "image1": "kakemono5.webp",
+        "image2": "fetedulac.webp",
+        "image3": "kakemono4.webp",
+        "image4": "kakemono2.webp",
+        "image5": "kakemono1.webp",
+        "brief": "Cette année, le Lac de la Balme de Sillingy fête ses 45 ans, et cela, en même temps que la célébration des 40 ans du jumelage avec la ville de Colle Umberto, en Italie. Pour l'occasion, la municipalité a décidé d'organiser une exposition retraçant l'histoire de ce lac emblématique, ainsi qu'une fête avec feux d'artifice. Avec Pauline, ma maître d'apprentissage, nous étions en charge de sa réalisation complète, de l'affiche, au roll'up de l'exposition, en passant par les invitations.",
+        "bref": "Pour ce projet, j'ai tout d'abord été en charge de créer l'affiche, point de départ de chaque événement. Pour cela, je commence par regarder les affiches prodduites les années antérieures et fais un rapide benchmark. Comme les élus souhaitaient qu'apparaisse un feu d'artifice aux couleurs de l'Italie, j'ai fait quelques croquis papier et cela a été mon point de départ. Après l'ajout du texte et des éléments qui viendrait accompagner le tout. L'affiche était prête. Pour les Kakémonos de l'exposition, j'ai pu être en charge de la mise en page. Ces supports n'existaient pas avant, nous avons donc dû les créer à partir de rien. Les contenus ont été produits par Pauline, je me suis chargée de les mettre en forme. <br> Pour finir, comme pour chaque projet, j'ai contacté les imprimeurs pour avoir des devis et me suis chargée de l'envoi en impression avec des fichiers conformes.",
+        "ressenti": "J'ai énormément apprécié ce projet, il a été long et fastidieux, il demandait beaucoup de temps et d'énergie mais le résultat est à la hauteur de nos attentes. Mettre en page une exposition était une première expérience pour moi, avec beaucoup de challenges.",
+        "lien": "https://drive.google.com/file/d/1QSOB2vS-xUO7OKLreO15WkVx4FJ8noVw/view?usp=drive_link",
+        "competences": [
+          "Comprendre et mettre en oeuvre un brief client", 
+          "Design graphique et éditorial", 
+          "Créativité"
+        ],
+        "tools": [
+          "ai.svg", 
+          "id.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 18,
+        "titre": "Interview Publications communales",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Communication",
+          "Design éditorial"
+        ],
+        "image": "images/bm1.webp",
+        "image1": "bulletin.webp",
+        "image2": "bulletin3.webp",
+        "image3": "bulletin2.webp",
+        "image4": "bulletin.webp",
+        "image5": "journal.webp",
+        "brief": "Au sein de la commune de La Balme de Sillingy, la municipalité souhaite publier 4 publications communales par an, comprenant deux journaux 'Au coeur de La Balme' et deux bulletins municipaux 'La Balme, ma ville'. Dans ce cadre, j'ai pu effectué diverses interviews de balméens, que ce soit des commerçants, des associations, ou encore des habitants.",
+        "bref": "Ces projets d'interviews sont une grande prise de responsabilité puisque je suis en charge de ce projet de A à Z. Pour commencer, je contacte les personnes à interviewer, j'organise une entrevue en personne en préparant notamment des questions appropriées suivant le sujet de l'article que je rédigerai. Une fois sur place, place à l'interview, que j'enregistre afin d'être plus spontanée. Une fois terminé, je me charge de la rédaction de l'article, en choisissant les éléments importants, et mets en page le tout, pour que cela donne envie de lire.",
+        "ressenti": "Ces projets ont été pour moi un vrai challenge, étant timide. Devoir démarcher ces personnes et endosser le rôle de journaliste était stressant mais très instructif. J'ai beaucoup appris et je suis maintenant beaucoup plus à l'aise lors d'échanges.",
+        "lien": "",
+        "competences": [
+          "Mise en page graphique", 
+          "Gestion de projet", 
+          "Organisation",
+          "Respect des deadlines",
+          "Capacité rédactionnelle",
+          "Aisance oratoire"
+        ],
+        "tools": [
+          "carnet.svg",
+          "id.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 19,
+        "titre": "Communication communale",
+        "type": "Projet d'entreprise - Alternance",
+        "categories": [
+          "Communication"
+        ],
+        "image": "images/reseaux.webp",
+        "image1": "fb.gif",
+        "image2": "fb2.webp",
+        "image3": "insta.webp",
+        "image4": "fb3.webp",
+        "image5": "insta2.webp",
+        "brief": "Dans le cadre de mon alternance au sein de la mairie de La Balme de Sillingy, je suis en charge de tâches régulières en plus des différents projets que je réalise. Notamment l'animation des réseaux sociaux (Facebook, Instagram, LinkedIn), du panneaux lumineux et du site web, qui sont des points importants car ils permettent de conserver un lien fort avec les habitants de la commune",
+        "bref": "Mon rôle est avant tout de planifier les publications sur les différents réseaux en focntion des événements à venir. Ces événements sont organisés par les associations ou par des services de la Mairie. Nous ne communiquons pas sur les commerces. Pour chaque événement, je me dois de le faire apparaître sur chacun des supports digitaux et physiques que la Mairie met en place, en adaptant les formats à la plateforme. Pour beaucoup, nous avons une charte éditoriale à respecter.",
+        "ressenti": "Depuis le début de mon alternance, j'apprécie de plus en plus ces tâches régulières, au fur et à mesure que je me familiarise avec la façon de rédiger ces posts et actualités.",
+        "lien": "",
+        "competences": [
+          "Capacité rédactionnelle", 
+          "Organisation", 
+          "Planification"
+        ],
+        "tools": [
+          "fb.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 20,
+        "titre": "Système de CRUD",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/crud1.webp",
+        "image1": "crud.gif",
+        "image2": "structurecrud.webp",
+        "image3": "updatecrud.webp",
+        "image4": "select1crud.webp",
+        "image5": "crud1.webp",
+        "brief": "Dans le cadre d’une ressource, j’ai pu appréhendé le système de CRUD (Create, Read, Update et Delete), un système très utilisé dans la gestion de base de données (par exemple s’il y a des comptes utilisateurs.",
+        "bref": "Pour réaliser ce projet, j'ai construit chaque fonctionnalité une par une, en commençant par la création d'un utilisateur. Pour cela, j'ai défini les champs de mon schéma au sein de ma base de données (nom, email, pseudo,..). J'ai ensuite mis en place une route POST pour permettre l'ajout de nouveaux utilisateurs à la base de données. Par la suite, j'ai ajouté une route GET pour récupérer la liste des utilisateurs. Cette route permet de lire tous les utilisateurs stockés dans la base de données. J'ai implémenté une route PUT pour mettre à jour les informations d'un utilisateur existant. Cette route utilise l'ID de l'utilisateur pour identifier quel enregistrement mettre à jour. Enfin, j'ai créé une route DELETE pour supprimer un utilisateur spécifique de la base de données en utilisant son ID.",
+        "ressenti": "J’ai été très désœuvré au début du projet car je ne comprenais pas bien comment ce système fonctionnait et je ne savais pas comment commencer ! Mais après avoir suivi un tutoriel, j’ai rapidement pu assimiler le fonctionnement. J’aimerais beaucoup le réutiliser dans d’autres projets plus conséquents.",
+        "lien": "",
+        "competences": [
+          "Développement web", 
+          "Maîtrise d'un système de base de données", 
+          "Création d'un système de CRUD"
+        ],
+        "tools": [
+          "nodejs.svg", 
+          "mongodb.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 21,
+        "titre": "Serre connectée",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/serreconnectee.webp",
+        "image1": "schemageneral.webp",
+        "image2": "arduino1.webp",
+        "image3": "arduino2.webp",
+        "image4": "serreconnectee.webp",
+        "image5": "arduino3.webp",
+        "brief": "Dans le cadre de notre SAE universitaire et par groupe de 4, nous avons eu pour projet de créer une serre connectée autonome et pilotable manuellement. Dans ce projet, je me suis occupée de l’aspect IOT (programmation Arduino et câblage des différents capteurs).",
+        "bref": "Dans ce projet, l’important était de pouvoir travailler en groupe, et faire participer tout le monde, j’ai été en charge de la programmation Arduino, travaillant quelques fois avec mes camarades en pair-programming sur certains capteurs ou lors de la transmission des données avec le brokeur MQTT. Partie dans laquelle j’ai assisté Mathys, en charge de cette partie durant le projet. Concernant la programmation Arduino, nous nous sommes déjà attaqué à programmer chaque capteurs individuellement afin de les faire fonctionner correctement. Puis nous les avons petit à petit regrouper pour, in fine, avoir un code complet et fonctionnel. Malheureusement, à l’étape de la transmission des données via le module LoRa jusqu’au front, plusieurs capteurs n’ont plus fonctionnés. Nous avons donc fait le choix de nous focaliser sur le broker MQTT et la transmission des données pour un seul type de capteur (les capteurs d’humidité du sol).",
+        "ressenti": "J’ai bien aimé ce projet mais je n’ai pas vraiment aimé le faire comme il n’a pas été concluant, je suis assez déçue de la finalité du projet et ai l’impression d’avoir perdu mon temps.",
+        "lien": "",
+        "competences": [
+          "Identité visuelle", 
+          "Design éditorial", 
+          "Créativité"
+        ],
+        "tools": [
+          "arduino.svg", 
+          "latex.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 22,
+        "titre": "Jeu Tetris sur Unity",
+        "type": "Projet personnel",
+        "categories": [
+          "Développement web"
+        ],
+        "image": "images/tetris.webp",
+        "image1": "tetris.gif",
+        "image2": "tetris2.webp",
+        "image3": "tetris.webp",
+        "image4": "tetris1.webp",
+        "image5": "tetris.webp",
+        "brief": "Nous devions réalisé en cours un jeu vidéo sur Unity, comme dans mon groupe quelqu’un a choisi de s’en occuper et que je ne pouvais rien faire, j’ai pris l’initiative d’en créer un moi-même. J’ai choisi un jeu Tetris.",
+        "bref": "Pour ce projet, j’ai suivi un tutoriel pour pouvoir le mener à bien. J’ai apprécié découvrir un nouveau logiciel et un nouveau langage de programmation.",
+        "ressenti": "Je suis très fière du résultat car, même si j'ai utilisé un tutoriel pour m'expliquer le fonctionnement du jeu et du logiciel, j'ai pris plaisir à comprendre le fonctionnement et c'est un projet que je pourrais refaire à d'autres occasions.",
+        "lien": "",
+        "competences": [
+          "Développement d'un jeu vidéo avec Unity", 
+          "Logique de jeu", 
+          "Créativité"
+        ],
+        "tools": [
+          "unity.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 23,
+        "titre": "Projets de start-up innovantes",
+        "type": "Projets universitaires",
+        "categories": [
+          "Communication",
+          "Webdesign"
+        ],
+        "image": "images/tagaday1.webp",
+        "image1": "tagaday2.webp",
+        "image2": "tagaday3.webp",
+        "image3": "tagaday4.webp",
+        "image4": "botazur2.webp",
+        "image5": "bookit.webp",
+        "brief": "Durant mes trois années universitaires au sein du BUT MMI, nous avons eu pour projet créer des start-ups innovantes sous différents aspects. Parmis ces projets, j'ai pu participé à la création de Tagaday et Botazur.",
+        "bref": "Pour Tagaday, nous devions monter un projet innovant qui répond à un besoin. Avec mon groupe, nous avons choisi de créer une application de gestion de centres équestres afin de facilité cette partie en généralisant les fonctionnalités dans une application ergonomique. Concernant le projet Botazur, nous avons créer une entreprise de bijoux biodégradables et constuit son business plan et son business model. Pour chacun de ses projets, nous avons dû créer une identité de marque et pitcher notre projet devant un public.",
+        "ressenti": "Pitcher ces projets m'a permis d'améliorer ma prise de parole en public et de pouvoir également travailler sur la manière de convaincre un auditoire. J'ai bien aimé ces projets mais j'aurais préféré n'avoir qu'un seul projet de start-up que l'on retravaillerait suivant les cours pour, au final, avoir un projet fonctionnel et complet.",
+        "lien": "",
+        "competences": [
+          "Identité visuelle", 
+          "Webdesign", 
+          "Création d'un projet innovant",
+          "Savoir pitcher son projet devant un public"
+        ],
+        "tools": [
+          "canva.svg", 
+          "figma.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 24,
+        "titre": "Un projet en entreprise",
+        "type": "Projet personnel",
+        "categories": [
+          "Animation"
+        ],
+        "image": "images/animation1.webp",
+        "image1": "animation1.webp",
+        "image2": "",
+        "image3": "",
+        "image4": "",
+        "image5": "",
+        "brief": "J'ai réalisé ce projet dans le cadre d'un TP d'anglais dans lequel nous devions présenté comment se passait la création d'un projet dans notre entreprise. Nous étions libre de choisir le moyen visuel que nous souhaitions, j'ai donc choisi de créer un motion-design. ",
+        "bref": "Pour ce projet, j'ai choisi de présenter le projet de création de la communication du Marché de Noël de La Balme de Sillingy. Pour cela, j'ai commencé par écrire le texte qui constitura la voix off, puis j'ai listé tous les éléments visuels qui viendrait dans l'animation, ainsi qu'un storyboard. Une fois tous les éléments créées, je me suis attelée à la production vidéo sur After effects. Une fois la vidéo finie, j'ai pu ajouter la voix off, procéder aux derniers ajustements, ajouter des sous titres, exporter et le projet était terminé !",
+        "ressenti": "Ce projet m'a permis de me replonger dans l'animation 2D, et la création visuelle, qui sont des domaines que j'apprécie énormément.",
+        "lien": "https://youtu.be/Xw7_7dG_VwE",
+        "competences": [
+          "Création de visuels graphiques", 
+          "Animation 2D", 
+          "Créativité",
+          "Capacité rédactionnelle Anglais"
+        ],
+        "tools": [
+          "ae.svg", 
+          "ai.svg",
+          "carnet.svg"
+        ],
+        "lottie": ""
+      },
+      {
+        "id": 25,
+        "titre": "Analyse et recommandation SEO",
+        "type": "Projet universitaire",
+        "categories": [
+          "Développement web",
+          "Communication"
+        ],
+        "image": "images/seo.webp",
+        "image1": "seo.webp",
+        "image2": "SEO2.webp",
+        "image3": "SEO3.webp",
+        "image4": "SEO4.webp",
+        "image5": "SEO5.webp",
+        "brief": "J'ai réalisé ce projet dans le cadre d'un cours sur le SEO. Nous devions, par groupe de deux, choisir une entreprise et procéder à son analyse SEO, en ajoutant nos recommendations.",
+        "bref": "Pour ce projet, nous avons choisi une esthétitienne sur Chambéry. Nous avons procédé à diverses analyse, comme les mots clés utilisés, la hierarchisation des titres (h1, h2, h3,...). L'entreprise était très mal référencée, nous avions donc beaucoup de recommendations à faire.",
+        "ressenti": "Ce projet était très instructif, bien que j'aurais aimé une partie plus orienté vers le code, ainsi qu'une mise en pratique.",
+        "lien": "https://drive.google.com/file/d/1sROl0mXYLsVh3vWu2Xej8NIqDP7lSjD_/view?usp=sharing",
+        "competences": [
+          "Analyse SEO", 
+          "Recommendations SEO"
+        ],
+        "tools": [
+          "canva.svg", 
+          "google.svg"
+        ],
+        "lottie": ""
+      }
+    ]
+  }
+  

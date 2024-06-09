@@ -1,25 +1,40 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { animateScroll as scroll } from 'react-scroll';
+import { useEffect } from 'react';
+import Home from "./pages/Home";
+import NotFound from './components/NotFound/NotFound';
+import ProjectDetail from './pages/ProjectPage/ProjectDetail';
+import Mention from './pages/mention';
+import { AnimatePresence } from "framer-motion";
+
+
+
+function ScrollToTop() {
+  const { pathname } = useLocation();
+
+  useEffect(() => {
+    scroll.scrollToTop({
+      duration: 0,
+    });
+  }, [pathname]);
+
+  return null;
+}
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <ScrollToTop />
+      <AnimatePresence mode='wait' initial={false}>
+        <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/project/:id" element={<ProjectDetail/>} />
+            <Route path="/mentionslégales" element={<Mention />} />
+            <Route path='*' element={<NotFound />} />
+        </Routes>
+      </AnimatePresence>
+    </Router>
   );
 }
-
 export default App;
+

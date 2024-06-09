@@ -1,0 +1,72 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Nunito', sans-serif;
+}
+
+body {
+    background: #F2E2C4;
+    color: #260801;
+    overflow: hidden;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+
+h2, h3 {
+    font-family: "chelsea-market-pro", sans-serif;
+    font-weight: 200;
+}
+
+button {
+    transition-duration: 0.3s;
+}
+
+button:hover {
+	border-radius: 5px;
+	cursor: pointer;
+	transition: 0.3s ease-in-out;
+}
+
+.progress-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background-color: #260801;
+    transform-origin: 0%;
+    z-index: 20;
+}
+
+.custom-cursor {
+    position: fixed;
+    width: 20px; 
+    height: 20px; 
+    background-color: rgba(38, 8, 1, 0.5);
+    border-radius: 50%; 
+    pointer-events: none; /* Empêche le curseur personnalisé de capturer les événements de la souris */
+    z-index: 99; 
+    transition: all 0.15s ease;
+}
+
+button:focus {
+    outline: 4px solid yellow;
+}
+
+.privacy-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #260801;
+    z-index: 200;
+  }
+  

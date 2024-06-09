@@ -1,0 +1,87 @@
+#intro {
+    height: calc(100vh - 4rem);
+    width: 100vw;
+    max-width: 75rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+}
+
+.bg{
+    position: absolute;
+    top: 12rem;
+    right: 2rem;
+    z-index: -1;
+    object-fit: cover;
+    height: 40vh;
+}
+
+.introContent {
+    height: 100vh;
+    width: 100vw;
+    padding: 2rem;
+    font-size: 2rem;
+    font-weight: 200;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.hello {
+    font-size: 1.75rem;
+    font-weight: 100;
+}
+
+.introName {
+    color: #545928;
+    font-family: "chelsea-market-open", sans-serif;
+    font-size: 3.5rem;
+}
+
+.introPara {
+    font-size: 15px;
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    margin-bottom: 2rem;
+}
+
+.fleur {
+    position: absolute;
+    top: 18rem;
+    right: 40rem;
+    z-index: -1;
+    object-fit: cover;
+    height: 4vh;
+}
+
+@media screen and (max-width:1140px){
+    .bg {
+        right: -10vw;
+    }
+
+    .fleur {
+        display: none;
+    }
+
+    .introText {
+        font-size: 9vw;
+    }
+
+    .introText>span {
+        font-size: 9vw;
+    }
+
+    .hello {
+        font-size: 4.5vw;
+    }
+}
+
+@media screen and (max-width:880px){
+    .bg {
+        width: 8rem;
+        height: 8rem;
+        top: 3rem;
+        right: 35vw;
+    }
+
+}

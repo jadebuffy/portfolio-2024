@@ -1,0 +1,296 @@
+.titles>h1 {
+    font-size: 3.5rem;
+    font-family: 'chelsea-market-pro', sans-serif;
+    font-weight: 400;
+}
+
+.headProject {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    padding: 2rem 0 4rem;
+    background-color: #808c54;
+    color: #F2E2C4;
+}
+
+.titles {
+    width: 80%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 2rem;
+    margin: auto;
+}
+
+.categories {
+    margin-top: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.categories>h2 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+    border: 2px solid #F2E2C4;
+    border-radius: 100px;
+    padding: 0.5rem 1rem;
+}
+
+.flecheretour {
+    object-fit: cover;
+    width: 3rem;
+    cursor: pointer;
+    margin: 1rem 1rem 0 5rem;
+}
+
+.return {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: absolute;
+}
+
+.return>p {
+    padding-top: 1rem;
+    font-family: 'chelsea-market-pro', sans-serif;
+    font-size: 1.2rem;
+    font-weight: 100;
+    color: #F2E2C4;
+}
+
+.introProject {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.image {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.projectDescription {
+    padding: 3rem;
+}
+
+.projectDescription>div>h3 {
+    font-size: 2rem;
+}
+
+.projectDescription>a {
+    display: block;
+    max-width: 9vw;
+    padding: 0.5rem 1rem;
+    border: 2px solid #260801;
+    border-radius: 50px;
+    margin-top: 2rem;
+    font-size: 1rem;
+    transition-duration: 0.3s;
+    color: #260801;
+}
+
+.projectDescription>a:hover {
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s ease-in-out;
+}
+
+.projectDescription>div>p>span {
+    font-family: "chelsea-market-pro", sans-serif;
+}
+
+.cards {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin: auto;
+    padding: 2rem 0;
+    background-color: #260801;
+    color: #F2E2C4;
+}
+
+.card {
+    width: 30rem;
+    border: 3px solid #F2E2C4;
+    border-radius: 10px;
+    padding: 2rem;
+    margin: 2rem;
+}
+
+.cardImgs {
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+.cardImgs>img {
+    width: 3rem;
+    margin-left: 1rem;
+}
+
+.carnet {
+    width: 10rem !important;
+}
+
+ul {
+    text-decoration: none;
+    margin-top: 1rem;
+}
+
+.imgProject {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 1fr;
+    width: 100vw;
+}
+
+.recadrage{
+    height: 18rem;
+    overflow:hidden;
+}
+
+.imgProject .recadrage img {
+    width: 150%;
+    height: 200%;
+    margin: -80px 0 0 -80px;
+    object-fit: cover;
+}
+
+.croquis {
+    width: 100% !important;
+    height: 150% !important;
+    margin: 0 !important;
+}
+
+.logo {
+    width: 100% !important;
+    height: 100% !important;
+    margin: 0 !important;
+}
+
+.bref {
+    margin-top: 2rem;
+}
+
+.ressenti {
+    margin-top: 2rem;
+}
+
+.similarProject {
+    display: grid;
+    width: 80%;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: 1fr;
+    gap: 2rem;
+    margin: 4rem auto;
+    align-items: center;
+    text-align: center;
+}
+
+.similarProjectCard {
+    border: 3px solid #808c54;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.similarProjectCard:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}
+
+.similarProjectCard>h3 {
+    font-size: 1.5rem;
+    margin: 1rem auto;
+    color: #260801;
+}
+
+.similarProjectCard>p {
+    width: auto;
+    margin: 0 auto 1rem;
+    color: #260801;
+}
+
+.image-similarProject {
+    width: 100%;
+    height: 20rem;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0.5rem;
+    align-items: center;
+    margin: auto;
+}
+
+.image-similarProject>img {
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.moreProjectsTitle {
+    font-size: 3rem;
+    font-weight: 200;
+    align-items: center;
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.privacy-screen {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #808c54;
+    z-index: 200;
+  }
+  
+
+@media  screen and (max-width:1120px) {
+    .imgProject {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .recadrage{
+        width: 100%;
+        height: 20rem;
+    }
+
+    .photo {
+        width: auto;
+        height: 100%;
+    }
+
+    .introProject {
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .titles {
+        margin-top: 3rem;
+    }
+
+    .similarProject {
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+
+@media  screen and (max-width:785px) {
+    .imgProject {
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
+    .photo {
+        width: 100%;
+        height: auto;
+    }
+}

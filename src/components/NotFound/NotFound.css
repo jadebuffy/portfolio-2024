@@ -1,0 +1,13 @@
+.image404 {
+    width: 12rem;
+}
+
+.section404 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}

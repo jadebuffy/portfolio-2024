@@ -1,0 +1,82 @@
+#contactPage {
+    font-family: 'Nunito', sans-serif;
+}
+
+#contact {
+    display: flex;
+    flex-direction: row;
+    text-align: left;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    max-width: 60rem;
+    margin: 0 auto;
+}
+
+.contactPageTitle {
+    width: 100vh;
+    margin: 0 0 1rem;
+    font-size: 3rem;
+}
+
+.contact-description {
+    width: 53vw;
+    padding: 1rem;
+    font-size: medium;
+    font-weight: 300;
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.contact-image {
+    width: 18rem;
+}
+
+.contact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: left;
+}
+
+.contact-description>span>img {
+    width: 1rem;
+    margin: 0 1rem;
+}
+
+.contact-description>span {
+    margin: 0 0 1rem;
+    align-items: center;
+}
+
+.cvButton {
+    width: 25vw;
+    max-width: 15rem;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    border-radius: 50px;
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    border: 2px solid #260801;
+    color: #260801;
+}
+
+@media  screen and (max-width:1185px) {
+    #contact {
+        flex-direction: column-reverse;
+        align-items: center;
+        text-align: center;
+    }
+
+    .contactPageTitle {
+        text-align: center;
+        font-size: 2.5rem;
+    }
+
+    .cvButton {
+        width: 50vw;
+        align-items: center;
+        margin: auto;
+    }
+}

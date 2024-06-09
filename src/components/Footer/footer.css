@@ -1,0 +1,40 @@
+.footer {
+    width: 100vw;
+    max-width: 100%;
+    height: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    font-weight: 300;
+    font-size: 0.9rem;
+    background-color: #808c54;
+    color: white;
+    margin-top: 4rem;
+}
+
+.footer div {
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.footer p {
+    color: #F2E2C4;
+}
+
+
+.linkP {
+    text-decoration: underline;
+}
+
+.linkP:hover {
+    text-decoration: none;
+}
+
+.para {
+    width: 65vw;
+    height: 47vh;
+    margin: 5rem 25rem;
+}
