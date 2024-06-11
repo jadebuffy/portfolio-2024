@@ -30,7 +30,7 @@ const Skills = () => {
                 </div>
             </motion.div>
             <motion.div className="skillBar" initial={{opacity: 0}} whileInView={{opacity: 1, transition: {duration: 0.7, delay: 1.5}}}>
-                <img src={team} alt="Pièces de puzzle qui s'assemble" className="skillBarImg" />
+                <img src={team} alt="Pièces de puzzle qui s'assemblent" className="skillBarImg" />
                 <div className="skillBarText">
                     <h3>Toute seule, c'est bien <br/>Ensemble c'est mieux</h3>
                 </div>
@@ -42,8 +42,8 @@ const Skills = () => {
                 </div>
             </motion.div>
         </div>
-        <img src={FilImg} alt='fil de décoration' className='filImg'/>
-        <img fetchpriority="high" src={backgroundImg} alt='fond vert' className='backgroundImg'/>
+        <img src={FilImg} alt='' className='filImg'/>
+        <img fetchpriority="high" src={backgroundImg} alt='' className='backgroundImg'/>
     </section>
   )
 }
