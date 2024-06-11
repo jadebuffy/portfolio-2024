@@ -45,7 +45,7 @@
         "brief": "Réaliser une infographie sur le thème de son choix. J’ai choisi de représenter le thème de la dépression chez les jeunes, un thème qui me tient particulièrement à cœur et qui est encore trop invisibilisé.",
         "bref": "Pour réaliser cette infographie, j'ai commencé par récolter des données et informations afin d'enrichir mon contenu. Je me suis informée sur plusieurs sites, et ai notamment pris connaissance de rapports faits par l'UNICEF à ce sujet. Une fois les contenus trouvés, j'ai pu effectuer les premiers croquis et hiérarchiser le contenu. Enfin, je me suis attaquée au design, après avoir fait un benchmark des styles de design qui me plairait. J'ai trouvé la métaphore de couler très pertinente pour illustrer le ressenti que l'on a dans cette situation qu'est la dépression, je l'ai donc utilisé à ma manière dans mon infographie.",
         "ressenti": "Je trouve que c’était un très bon exercice pour apprendre à illustrer ses propos, afin qu’ils donnent envie de lire et que les informations soient accessibles au plus grand nombre. Ce projet m’a permis de travailler sur mes compétences de mise en page et de design graphique.",
-        "lien": "https://exemple.com/projet2",
+        "lien": "https://drive.google.com/file/d/1bfaBTGHknxa6YDqig1bWPjRObZJtvJLL/view?usp=sharing",
         "competences": [
           "Créativité", 
           "Design Graphique", 
@@ -73,7 +73,7 @@
         "brief": "J'ai réalisé ce projet dans le cadre d'un TP de culture artistique. Je devais réaliser un document de charte pour définir ma propre identité visuelle, en passant par la création de mon logo.",
         "bref": "Tout d'abord, j'ai réalisé un moodboard qui me correspondait avec des ambiances graphiques, des typographies, des couleurs. Ensuite, j'ai commencé ma recherche de logo sur papier, où j'ai élaboré plusieurs croquis différents. Avec l'utilisation d'Illustrator, j'ai numérisé ces croquis que j'ai finalement retravaillés pour trouver mon logo. Dès que celui-ci a été créé, j'ai décliné la charte graphique.",
         "ressenti": "Pour moi, cela a été une bonne expérience de rétrospection, car je trouve qu'il est assez difficile de bien se connaître soi-même et de se définir en une charte qui nous représente et aspire à ce que l'on veut renvoyer comme image. Depuis, j'ai conservé le même logo, mais ma charte graphique a changé en même temps que mes goûts ;)",
-        "lien": "https://exemple.com/projet2",
+        "lien": "https://drive.google.com/file/d/1yEoS7zeFl7t--wx7RAJEqDAnKJzI5PxW/view?usp=sharing",
         "competences": [
           "Identité visuelle", 
           "Design éditorial", 
@@ -103,7 +103,7 @@
         "brief": "J'ai réalisé ce projet dans le cadre de mon stage de 2 mois au sein de l'atelier graphique Indélébile!. En collaboration avec le Studio Big Horn, nous devions réaliser le design de l'interface VR du CHS de Savoie, permettant la visite virtuelle des lieux au moyen de photos 360°. Le CHS de Savoie est un endroit emblématique de Bassens, dont la partie historique va être vendue. Pour permettre aux personnes de continuer à visiter ce site, ils ont pris l’initiative de créer une visite virtuelle qui sera affichée sur des bornes.",
         "bref": "Pour ce projet, j’ai fait un important benchmark qui m’a permis de choisir les fonctionnalités efficaces et les designs pertinents pour cette interface. Suite à ces recherches, j’ai pu créer un zoning pour la page d’accueil, la page zoom sur une œuvre et la page intérieure d’un point d’intérêt. Le design a été réalisé par la deuxième personne en charge, à partir de mon zoning. J’ai créé également quelques icônes pour représenter les points d’intérêts principaux qui s’inspirent des éléments emblématiques de chaque lieu : l’apothicairerie est symbolisée par un des pots en céramique, le parc par un des arbres, les coursives par leur forme.",
         "ressenti": "Je ne pensais pas que le zoning jouerait un rôle si important dans la création d’un webdesign, mais j’ai pu constater que cela faisait gagner beaucoup de temps surtout si l’on travaille en équipe.",
-        "lien": "https://exemple.com/projet2",
+        "lien": "",
         "competences": [
           "UX design", 
           "Design éditorial", 
@@ -132,7 +132,7 @@
         "brief": "Dans le cadre de mon alternance au sein de la Mairie de La Balme de Sillingy, j'ai été chargée de la refonte du dépliant d'accueil destiné aux nouveaux agents. Mon objectif était de créer un document à la fois informatif, accueillant et esthétique, conforme à la charte graphique de la mairie et présentant les informations essentielles de manière claire et attrayante.",
         "bref": "Ma responsabilité principale a été de concevoir le design du dépliant en accord avec la charte graphique existante de la mairie, tout en lui apportant une touche de modernité. J'ai également collaboré étroitement avec le service des ressources humaines pour mettre à jour les informations et les textes, garantissant ainsi leur exactitude et leur pertinence. Pour ce faire, j'ai utilisé Adobe InDesign afin de créer une mise en page attractive et structurée.",
         "ressenti": "Ce projet était une bonne expérience. La communication interne implique des contraintes, surtout dans le cadre d'une collectivité, et cela m'a beaucoup plu de pouvoir expérimenter ces conditions. Le design print est un domaine qui m'intéresse et dans lequel j'aimerais améliorer mes compétences. Ce projet m'a permis de travailler sur mes compétences en design graphique, ma capacité à travailler en étroite collaboration avec d'autres services et ma volonté de produire un travail de qualité conforme aux normes professionnelles.",
-        "lien": "https://exemple.com/projet2",
+        "lien": "",
         "competences": [
           "Design éditorial", 
           "Créativité", 
@@ -367,7 +367,7 @@
         "brief": "Dans le cadre d’un projet universitaire, nous devions réaliser une application de météo. Le but ? Récupérer les données depuis l’api de notre choix et les afficher lorsque l’utilisateur rentre la ville de son choix.",
         "bref": "Pour ce projet, j’ai choisi l’API weather, gratuite et avec une documentation complète qui m’a permis d’appréhender le projet avec les bonnes clés en main. Dans un premier temps  j’ai construit la structure du code, permettant de récupérer les données en back, puis de les transmettre au front qui les affichera. Pour cela, j’ai utilisé des variables permettant de stocker les données relatives à différents champs (comme le nom de la ville, la température, la date, etc…). Ces données, j’ai pu les récupéré depuis un fichier .json envoyé depuis l’API, et dont j’ai récupéré seulement celles qui m’intéressaient. Le CSS de l'application a été fait avec Bootstrap, une première pour moi.",
         "ressenti": "J’ai trouvé ce projet accessible et intéressant. Il m’a permis de développer pour la première fois une API rest et j’ai pu apprendre les bases de la conception d’application web.",
-        "lien": "",
+        "lien": "https://drive.google.com/file/d/1HfMyzPMwojs0iBF0J-7x_En4SXXb9nQE/view?usp=sharing",
         "competences": [
           "Utilisation d'une API", 
           "Récupération de données via un fichier .json", 
@@ -397,7 +397,7 @@
         "brief": "Dans le cadre d’une ressource, nous devions utiliser les websockets sur un jeu vidéo. Pour cela, j’ai choisi de réaliser un Tic Tac Toe multijoueurs.",
         "bref": "Comme ce projet utilisait des technologies encore inconnues pour moi (websockets), j'ai décidé de passer une partie de mon travail à la recherche de tutoriel explicatif et de documentation. Une fois le sujet éclairé, j'ai pu me lancer dans ce jeu, que j'ai développé à l'aide de bootstrap pour le css. Une fois les configurations faites et la logique de jeu implémentée, le projet était fonctionnel !",
         "ressenti": "Le projet étant fonctionnel, j’ai décidé d’apporter des modifications, comme le fait que le premier joueur lorsqu’on lance une partie soit défini aléatoirement, de même que les symboles attribués à chaque adversaire. Malheureusement, j’ai eu quelques problèmes et la distribution des tours aux joueurs rentre parfois en conflit. J’ai apprécié pouvoir me lancer sur ce projet dans l’inconnu, j’ai pu apprendre de nombreuses choses sur les connexions et échanges entre serveurs et clients.  ",
-        "lien": "",
+        "lien": "https://drive.google.com/file/d/1K7J8m-eOs4rWiOPt6K0bnJf5Q5YB8bcG/view?usp=sharing",
         "competences": [
           "Utilisation de framework back end", 
           "Développement de connexions serveurs multijoueurs", 
@@ -576,7 +576,7 @@
         "brief": "Dans le cadre d’une ressource, j’ai pu appréhendé le système de CRUD (Create, Read, Update et Delete), un système très utilisé dans la gestion de base de données (par exemple s’il y a des comptes utilisateurs.",
         "bref": "Pour réaliser ce projet, j'ai construit chaque fonctionnalité une par une, en commençant par la création d'un utilisateur. Pour cela, j'ai défini les champs de mon schéma au sein de ma base de données (nom, email, pseudo,..). J'ai ensuite mis en place une route POST pour permettre l'ajout de nouveaux utilisateurs à la base de données. Par la suite, j'ai ajouté une route GET pour récupérer la liste des utilisateurs. Cette route permet de lire tous les utilisateurs stockés dans la base de données. J'ai implémenté une route PUT pour mettre à jour les informations d'un utilisateur existant. Cette route utilise l'ID de l'utilisateur pour identifier quel enregistrement mettre à jour. Enfin, j'ai créé une route DELETE pour supprimer un utilisateur spécifique de la base de données en utilisant son ID.",
         "ressenti": "J’ai été très désœuvré au début du projet car je ne comprenais pas bien comment ce système fonctionnait et je ne savais pas comment commencer ! Mais après avoir suivi un tutoriel, j’ai rapidement pu assimiler le fonctionnement. J’aimerais beaucoup le réutiliser dans d’autres projets plus conséquents.",
-        "lien": "",
+        "lien": "https://drive.google.com/file/d/1F1zecsau3uDZN8GtGQFjdPXWpVOyTsc9/view?usp=sharing",
         "competences": [
           "Développement web", 
           "Maîtrise d'un système de base de données", 
@@ -604,7 +604,7 @@
         "brief": "Dans le cadre de notre SAE universitaire et par groupe de 4, nous avons eu pour projet de créer une serre connectée autonome et pilotable manuellement. Dans ce projet, je me suis occupée de l’aspect IOT (programmation Arduino et câblage des différents capteurs).",
         "bref": "Dans ce projet, l’important était de pouvoir travailler en groupe, et faire participer tout le monde, j’ai été en charge de la programmation Arduino, travaillant quelques fois avec mes camarades en pair-programming sur certains capteurs ou lors de la transmission des données avec le brokeur MQTT. Partie dans laquelle j’ai assisté Mathys, en charge de cette partie durant le projet. Concernant la programmation Arduino, nous nous sommes déjà attaqué à programmer chaque capteurs individuellement afin de les faire fonctionner correctement. Puis nous les avons petit à petit regrouper pour, in fine, avoir un code complet et fonctionnel. Malheureusement, à l’étape de la transmission des données via le module LoRa jusqu’au front, plusieurs capteurs n’ont plus fonctionnés. Nous avons donc fait le choix de nous focaliser sur le broker MQTT et la transmission des données pour un seul type de capteur (les capteurs d’humidité du sol).",
         "ressenti": "J’ai bien aimé ce projet mais je n’ai pas vraiment aimé le faire comme il n’a pas été concluant, je suis assez déçue de la finalité du projet et ai l’impression d’avoir perdu mon temps.",
-        "lien": "",
+        "lien": "https://drive.google.com/file/d/12EsPryXQjpyV1x8BNRg6OPoGBvfUr9Gw/view?usp=sharing",
         "competences": [
           "Identité visuelle", 
           "Design éditorial", 

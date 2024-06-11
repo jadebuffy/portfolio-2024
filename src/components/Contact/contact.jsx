@@ -15,7 +15,7 @@ const Contact = () => {
   return (
     <section className="contactPage">
         <div id="contact">
-          <img src={contact} alt='contact' className='contact-image'/>
+          <img src={contact} alt='Illustration de bulles de contact' className='contact-image'/>
             <div className='contact-content'>
               <motion.h2 className="contactPageTitle" initial={{x: -300, opacity: 0}} whileInView={{x: 0, opacity: 1, transition: { type: "linear", duration: 0.5, delay: 0.5 }}}>Restons en contact</motion.h2>
               <div className="contact-description">

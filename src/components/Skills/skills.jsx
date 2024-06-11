@@ -24,26 +24,26 @@ const Skills = () => {
                 </div>
             </motion.div>
             <motion.div className="skillBar" initial={{opacity: 0}} whileInView={{opacity: 1, transition: {duration: 0.7, delay: 1.25}}}>
-                <img src={patience} alt="Webdesign" className="skillBarImg" />
+                <img src={patience} alt="Bonhomme avec une tête de fleur qui médite et est serein" className="skillBarImg" />
                 <div className="skillBarText">
                     <h3>La patience, ça me connait</h3>
                 </div>
             </motion.div>
             <motion.div className="skillBar" initial={{opacity: 0}} whileInView={{opacity: 1, transition: {duration: 0.7, delay: 1.5}}}>
-                <img src={team} alt="Appdesign" className="skillBarImg" />
+                <img src={team} alt="Pièces de puzzle qui s'assemble" className="skillBarImg" />
                 <div className="skillBarText">
                     <h3>Toute seule, c'est bien <br/>Ensemble c'est mieux</h3>
                 </div>
             </motion.div>
             <motion.div className="skillBar"  initial={{opacity: 0}} whileInView={{opacity: 1, transition: {duration: 0.7, delay: 1.75}}}>
-                <img src={energy} alt="Appdesign" className="skillBarImg"/>
+                <img src={energy} alt="Fusée qui décole" className="skillBarImg"/>
                 <div className="skillBarText">
                     <h3>Jamais fatiguée !</h3>
                 </div>
             </motion.div>
         </div>
-        <img src={FilImg} alt='fil' className='filImg'/>
-        <img src={backgroundImg} alt='background' className='backgroundImg'/>
+        <img src={FilImg} alt='fil de décoration' className='filImg'/>
+        <img fetchpriority="high" src={backgroundImg} alt='fond vert' className='backgroundImg'/>
     </section>
   )
 }

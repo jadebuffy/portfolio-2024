@@ -28,7 +28,7 @@ const Navbar = () => {
               </svg>
               Contactez moi
           </BoutonOverlay>
-          <img src={showMenu ? closeMenu : menu} alt="Menu" className='mobMenu' onClick={() => setShowMenu(!showMenu)}/>
+          <img src={showMenu ? closeMenu : menu} alt="Bouton de menu" className='mobMenu' onClick={() => setShowMenu(!showMenu)}/>
           <div className="navMenu" style={{display: showMenu? 'flex':'none'}}>
               <Link activeClass="active" to="intro" spy={true} smooth={true} offset={-100} duration={500} className="listItem" onClick={() => setShowMenu(false)}>Accueil</Link>
               <Link activeClass="active" to="skills" spy={true} smooth={true} offset={-20} duration={500} className="listItem" onClick={() => setShowMenu(false)}>Compétences</Link>

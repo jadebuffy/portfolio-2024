@@ -31,7 +31,7 @@ function ProjectDetail() {
     <section>
     <div className='headProject'>
       <HashLink to="/#works" smooth={true} className='return'>
-        <img src={flecheretour} alt='flèche retour' className='flecheretour'/>
+        <img src={flecheretour} alt='flèche retour accueil' className='flecheretour'/>
         <p>Retour</p>
       </HashLink>
       <div className='titles'>
@@ -49,13 +49,10 @@ function ProjectDetail() {
           <img src={require(`../../assets/${project.image1}`)} alt={project.titre} className='image'/>
         )}
       {project.lottie && (
-        <div className='lottie-container'>
+        <div className='lottie-container' role="img">
           <Lottie options={defaultOptions} />
         </div>
       )}
-      {project.video && (
-          <video src={require(`../../assets/${project.video}`)} type="video/webm" className='image'/>
-        )}
       <div className='projectDescription'>
         <div>
           <h3>Le brief</h3>

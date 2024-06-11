@@ -6,7 +6,7 @@ const NotFound = () => {
   return (      
     <section className='section404'>
         <div className='image404'>
-            <img src={sad} alt='smiley triste'/>
+            <img src={sad} alt='emoji triste'/>
         </div>
         <div>
             <h1>404 - Page Not Found</h1>
