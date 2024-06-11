@@ -86,7 +86,7 @@ function ProjectDetail() {
         <h3>Outils</h3>
         <div className='cardImgs'>
             {project.tools.map((tool, index) => (
-                <img src={require(`../../assets/${tool}`)} alt={project.titre} key={index}/>
+                <img src={require(`../../assets/${tool}`)} alt={project.titre} key={index} loading="lazy"/>
             ))}
         </div>
       </div>
@@ -94,22 +94,22 @@ function ProjectDetail() {
     <div className='imgProject'>
       <div className='recadrage'>
         {project.image2 && (
-          <img src={require(`../../assets/${project.image2}`)} alt={project.titre} className='logo'/>
+          <img src={require(`../../assets/${project.image2}`)} alt={project.titre} className='logo' loading="lazy"/>
         )}
       </div>
       <div className='recadrage'>
         {project.image3 && (
-          <img src={require(`../../assets/${project.image3}`)} alt={project.titre} className='logo'/>
+          <img src={require(`../../assets/${project.image3}`)} alt={project.titre} className='logo' loading="lazy"/>
         )}
       </div>
       <div className='recadrage'>
         {project.image4 && (
-          <img src={require(`../../assets/${project.image4}`)} alt={project.titre} className='logo'/>
+          <img src={require(`../../assets/${project.image4}`)} alt={project.titre} className='logo' loading="lazy"/>
         )}
       </div>
       <div className='recadrage'>
         {project.image5 && (
-          <img src={require(`../../assets/${project.image5}`)} alt={project.titre} className='logo'/>
+          <img src={require(`../../assets/${project.image5}`)} alt={project.titre} className='logo' loading="lazy"/>
         )}
       </div>
     </div>

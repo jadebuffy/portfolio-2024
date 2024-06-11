@@ -70,8 +70,8 @@ const Intro = () => {
             </Link>
 
         </main>
-        <motion.img src={bg} alt="Illustration carré de fleurs" className="bg" whileInView={{rotate: 360}} transition={{duration: 2}}/>
-        <motion.img src={flower} alt='fleur' className='fleur' initial={{opacity: 0}} whileInView={{opacity: 1}} transition={{duration: 2}}/>
+        <motion.img src={bg} alt="Illustration carré de fleurs" className="bg" whileInView={{rotate: 360}} transition={{duration: 2}} loading="lazy"/>
+        <motion.img src={flower} alt='fleur' className='fleur' initial={{opacity: 0}} whileInView={{opacity: 1}} transition={{duration: 2}} loading="lazy"/>
     </section>
   )
 }
