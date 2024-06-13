@@ -8,7 +8,7 @@ const Footer = () => {
       <span><p>Copyright &copy; 2024 Jade Buffy - Tout droit réservé</p></span>
         <div> 
           <p>Codé avec amour ❤</p>
-          <Link to="/mentionslégales">
+          <Link to="/mentionslegales">
               <p className='linkP'>Mentions légales</p>
           </Link>
         </div>

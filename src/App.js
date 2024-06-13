@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation} from 'react-router-dom';
 import { animateScroll as scroll } from 'react-scroll';
 import { useEffect } from 'react';
 import Home from "./pages/Home";
@@ -23,17 +23,17 @@ function ScrollToTop() {
 
 function App() {
   return (
-    <Router>
-      <ScrollToTop />
-      <AnimatePresence mode='wait' initial={false}>
-        <Routes>
-            <Route path="/" element={<Home />} />
-            <Route path="/project/:id" element={<ProjectDetail/>} />
-            <Route path="/mentionslégales" element={<Mention />} />
-            <Route path='*' element={<NotFound />} />
-        </Routes>
-      </AnimatePresence>
-    </Router>
+      <Router>
+        <ScrollToTop />
+        <AnimatePresence mode='wait' initial={false}>
+          <Routes>
+              <Route exact path="/" element={<Home />} />
+              <Route path="/project/:id" element={<ProjectDetail/>} />
+              <Route path="/mentionslegales" element={<Mention />} />
+              <Route path="/*" element={<NotFound />} />
+          </Routes>
+        </AnimatePresence>
+      </Router>
   );
 }
 export default App;
