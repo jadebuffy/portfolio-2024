@@ -427,7 +427,7 @@
         "brief": "J'ai réalisé ce projet dans le cadre d'un TP de culture artistique. Je devais réaliser un document de charte pour définir ma propre identité visuelle, en passant par la création de mon logo.",
         "bref": "Tout d'abord, j'ai réalisé un moodboard qui me correspondait avec des ambiances graphiques, des typographies, des couleurs. Ensuite, j'ai commencé ma recherche de logo sur papier, où j'ai élaboré plusieurs croquis différents. Avec l'utilisation d'Illustrator, j'ai numérisé ces croquis que j'ai finalement retravaillés pour trouver mon logo. Dès que celui-ci a été créé, j'ai décliné la charte graphique.",
         "ressenti": "Pour moi, cela a été une bonne expérience de rétrospection, car je trouve qu'il est assez difficile de bien se connaître soi-même et de se définir en une charte qui nous représente et aspire à ce que l'on veut renvoyer comme image. Depuis, j'ai conservé le même logo, mais ma charte graphique a changé en même temps que mes goûts ;)",
-        "lien": "",
+        "lien": "https://github.com/jadebuffy/portfolio-2024",
         "competences": [
           "Design graphique", 
           "Webdesign", 
@@ -576,7 +576,7 @@
         "brief": "Dans le cadre d’une ressource, j’ai pu appréhendé le système de CRUD (Create, Read, Update et Delete), un système très utilisé dans la gestion de base de données (par exemple s’il y a des comptes utilisateurs.",
         "bref": "Pour réaliser ce projet, j'ai construit chaque fonctionnalité une par une, en commençant par la création d'un utilisateur. Pour cela, j'ai défini les champs de mon schéma au sein de ma base de données (nom, email, pseudo,..). J'ai ensuite mis en place une route POST pour permettre l'ajout de nouveaux utilisateurs à la base de données. Par la suite, j'ai ajouté une route GET pour récupérer la liste des utilisateurs. Cette route permet de lire tous les utilisateurs stockés dans la base de données. J'ai implémenté une route PUT pour mettre à jour les informations d'un utilisateur existant. Cette route utilise l'ID de l'utilisateur pour identifier quel enregistrement mettre à jour. Enfin, j'ai créé une route DELETE pour supprimer un utilisateur spécifique de la base de données en utilisant son ID.",
         "ressenti": "J’ai été très désœuvré au début du projet car je ne comprenais pas bien comment ce système fonctionnait et je ne savais pas comment commencer ! Mais après avoir suivi un tutoriel, j’ai rapidement pu assimiler le fonctionnement. J’aimerais beaucoup le réutiliser dans d’autres projets plus conséquents.",
-        "lien": "https://drive.google.com/file/d/1F1zecsau3uDZN8GtGQFjdPXWpVOyTsc9/view?usp=sharing",
+        "lien": "https://github.com/jadebuffy/myapp",
         "competences": [
           "Développement web", 
           "Maîtrise d'un système de base de données", 
