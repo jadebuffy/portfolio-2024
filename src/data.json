@@ -367,7 +367,7 @@
         "brief": "Dans le cadre d’un projet universitaire, nous devions réaliser une application de météo. Le but ? Récupérer les données depuis l’api de notre choix et les afficher lorsque l’utilisateur rentre la ville de son choix.",
         "bref": "Pour ce projet, j’ai choisi l’API weather, gratuite et avec une documentation complète qui m’a permis d’appréhender le projet avec les bonnes clés en main. Dans un premier temps  j’ai construit la structure du code, permettant de récupérer les données en back, puis de les transmettre au front qui les affichera. Pour cela, j’ai utilisé des variables permettant de stocker les données relatives à différents champs (comme le nom de la ville, la température, la date, etc…). Ces données, j’ai pu les récupéré depuis un fichier .json envoyé depuis l’API, et dont j’ai récupéré seulement celles qui m’intéressaient. Le CSS de l'application a été fait avec Bootstrap, une première pour moi.",
         "ressenti": "J’ai trouvé ce projet accessible et intéressant. Il m’a permis de développer pour la première fois une API rest et j’ai pu apprendre les bases de la conception d’application web.",
-        "lien": "https://drive.google.com/file/d/1HfMyzPMwojs0iBF0J-7x_En4SXXb9nQE/view?usp=sharing",
+        "lien": "https://github.com/jadebuffy/APIRESTMeteo",
         "competences": [
           "Utilisation d'une API", 
           "Récupération de données via un fichier .json", 
@@ -397,7 +397,7 @@
         "brief": "Dans le cadre d’une ressource, nous devions utiliser les websockets sur un jeu vidéo. Pour cela, j’ai choisi de réaliser un Tic Tac Toe multijoueurs.",
         "bref": "Comme ce projet utilisait des technologies encore inconnues pour moi (websockets), j'ai décidé de passer une partie de mon travail à la recherche de tutoriel explicatif et de documentation. Une fois le sujet éclairé, j'ai pu me lancer dans ce jeu, que j'ai développé à l'aide de bootstrap pour le css. Une fois les configurations faites et la logique de jeu implémentée, le projet était fonctionnel !",
         "ressenti": "Le projet étant fonctionnel, j’ai décidé d’apporter des modifications, comme le fait que le premier joueur lorsqu’on lance une partie soit défini aléatoirement, de même que les symboles attribués à chaque adversaire. Malheureusement, j’ai eu quelques problèmes et la distribution des tours aux joueurs rentre parfois en conflit. J’ai apprécié pouvoir me lancer sur ce projet dans l’inconnu, j’ai pu apprendre de nombreuses choses sur les connexions et échanges entre serveurs et clients.  ",
-        "lien": "https://drive.google.com/file/d/1K7J8m-eOs4rWiOPt6K0bnJf5Q5YB8bcG/view?usp=sharing",
+        "lien": "https://github.com/jadebuffy/MorpionWithWebsockets",
         "competences": [
           "Utilisation de framework back end", 
           "Développement de connexions serveurs multijoueurs", 
